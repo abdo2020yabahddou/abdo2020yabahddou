@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abdo2020yabahddou
-- 👀 I’m interested in informatique
-- 🌱 I’m currently learning Germany
+- 👀 I'm interested in IT
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me happiness
 
