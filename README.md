@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdo2020yabahddou
 - 👀 I'm interested in coding with Kotlin
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to be successful
 
 <!---
